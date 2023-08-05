@@ -6,3 +6,9 @@ There are several features :
 3. Pendataan (Customer, Lahan, Karyawan, Kebun, dan Monitoring Status Kebun)
 4. Transaksi (Pendapatan, Pengeluaran)
 5. Laporan (Pendapatan, Pengeluaran)
+
+![alt text](https://github.com/zalllrizalll/Aplikasi-Monitoring-Sawit/blob/master/Public/Screenshot_20230714_102638.png?raw=true)
+![alt text](https://github.com/zalllrizalll/Aplikasi-Monitoring-Sawit/blob/master/Public/Screenshot_20230714_103430.png?raw=true)
+![alt text](https://github.com/zalllrizalll/Aplikasi-Monitoring-Sawit/blob/master/Public/Screenshot_20230714_103917.png?raw=true)
+![alt text](https://github.com/zalllrizalll/Aplikasi-Monitoring-Sawit/blob/master/Public/Screenshot_20230714_104021.png?raw=true)
+![alt text](https://github.com/zalllrizalll/Aplikasi-Monitoring-Sawit/blob/master/Public/Screenshot_20230714_104239.png?raw=true)
