@@ -1,4 +1,4 @@
-# Aplikasi-Monitoring-Sawit
+# Aplikasi Monitoring Sawit
 Make Apps Palm Oil Monitoring using Java Neatbeans
 
 There are several features :
